@@ -6,5 +6,5 @@
 
 proccess包里面的两个文件是并行加速的代码
 model里面的SampleCV 是过采样交叉验证,其中参数k是采样数目，w是邻域半径0.01-0.1  ，nthread是多线程数目
-使用分类模型为xgboost，java版配置参考
+使用分类模型为xgboost，java版配置参考http://blog.csdn.net/bryan__/article/details/51036497
 特征部分就不放出来了
