@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="G:/学习/JAVA/java驱动/weka.jar" sourcepath="G:/学习/JAVA/java驱动/weka-src.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="G:/学习/JAVA/java驱动/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/学习/JAVA/java驱动/liblinear/liblinear-1.5.jar"/>
+	<classpathentry kind="lib" path="G:/学习/JAVA/java驱动/liblinear/liblinear-1.5-with-deps.jar"/>
+	<classpathentry kind="lib" path="G:/学习/JAVA/java驱动/libsvm.jar"/>
+	<classpathentry kind="lib" path="G:/学习/JAVA/java驱动/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="G:/学习/JAVA/java驱动/xgboost4j-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
